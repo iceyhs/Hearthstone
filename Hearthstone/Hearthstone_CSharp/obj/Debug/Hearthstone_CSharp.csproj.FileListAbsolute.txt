@@ -1,0 +1,15 @@
+d:\users\just\documents\visual studio 2013\Projects\Hearthstone_CSharp\Hearthstone_CSharp\bin\Debug\Hearthstone_CSharp.exe.config
+d:\users\just\documents\visual studio 2013\Projects\Hearthstone_CSharp\Hearthstone_CSharp\obj\Debug\Hearthstone_CSharp.csprojResolveAssemblyReference.cache
+d:\users\just\documents\visual studio 2013\Projects\Hearthstone_CSharp\Hearthstone_CSharp\bin\Debug\Hearthstone_CSharp.exe
+d:\users\just\documents\visual studio 2013\Projects\Hearthstone_CSharp\Hearthstone_CSharp\bin\Debug\Hearthstone_CSharp.pdb
+d:\users\just\documents\visual studio 2013\Projects\Hearthstone_CSharp\Hearthstone_CSharp\obj\Debug\Hearthstone_CSharp.exe
+d:\users\just\documents\visual studio 2013\Projects\Hearthstone_CSharp\Hearthstone_CSharp\obj\Debug\Hearthstone_CSharp.pdb
+C:\Users\Jian NuoPang\Downloads\暴雪\Hearthstone_CSharp\Hearthstone_CSharp\bin\Debug\Hearthstone_CSharp.exe.config
+C:\Users\Jian NuoPang\Downloads\暴雪\Hearthstone_CSharp\Hearthstone_CSharp\obj\Debug\Hearthstone_CSharp.exe
+C:\Users\Jian NuoPang\Downloads\暴雪\Hearthstone_CSharp\Hearthstone_CSharp\obj\Debug\Hearthstone_CSharp.pdb
+C:\Users\Jian NuoPang\Downloads\暴雪\Hearthstone_CSharp\Hearthstone_CSharp\bin\Debug\Hearthstone_CSharp.exe
+C:\Users\Jian NuoPang\Downloads\暴雪\Hearthstone_CSharp\Hearthstone_CSharp\bin\Debug\Hearthstone_CSharp.pdb
+C:\Users\Jian NuoPang\Downloads\暴雪\Hearthstone_CSharp\Hearthstone_CSharp\obj\Debug\Hearthstone_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jian NuoPang\Desktop\Hearthstone_Shan_Huang\Hearthstone_CSharp\bin\Debug\Hearthstone_CSharp.exe.config
+C:\Users\Jian NuoPang\Desktop\Hearthstone_Shan_Huang\Hearthstone_CSharp\obj\Debug\Hearthstone_CSharp.exe
+C:\Users\Jian NuoPang\Desktop\Hearthstone_Shan_Huang\Hearthstone_CSharp\obj\Debug\Hearthstone_CSharp.pdb
